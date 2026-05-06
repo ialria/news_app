@@ -15,10 +15,10 @@ A modern Flutter application that delivers the latest news across multiple categ
  Screenshots
 
 <p align="center">
-  <img src="screenshots/news_page.jpeg" width="200"/>
-  <img src="screenshots/drawer.jpeg" width="200"/>
-  <img src="screenshots/news_channels.jpeg" width="200"/>
-  <img src="screenshots/news_page.jpeg" width="20"/>
+  <img src="screenshots/news_page.jpeg" width="150"/>
+  <img src="screenshots/drawer.jpeg" width="150"/>
+  <img src="screenshots/news_channels.jpeg" width="150"/>
+  <img src="screenshots/live_news.jpeg" width="150"/>
 </p>
 
 Getting Started
